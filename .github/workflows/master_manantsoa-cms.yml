@@ -20,7 +20,7 @@ jobs:
     - name: Set up Python version
       uses: actions/setup-python@v1
       with:
-        python-version: '3.6'
+        python-version: '3.8'
 
     - name: Create and start virtual environment
       run: |
@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'manantsoa-cms'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_41724a98d0af4aba99c03bb2fccae3f2 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_2b3ea9bd0b594c4c84517bcdf8c0e4fb }}
