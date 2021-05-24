@@ -61,11 +61,19 @@ Body: "My name is Jane Doe and this is my first article!"
 ### Please also make sure the URL is present in the screenshot.
 ![image](https://user-images.githubusercontent.com/18415884/119394006-5fbc4b00-bcda-11eb-8afd-e254084646e6.png)
 
+![image](https://user-images.githubusercontent.com/18415884/119398475-48805c00-bce0-11eb-8c75-e498a9eb4ad7.png)
+
+
 
 ### Log into the Azure Portal, go to your Resource Group, and provide a screenshot including all of the resources that were created to complete this project. (see sample screenshot in "example_images" folder)
 ![image](https://user-images.githubusercontent.com/18415884/119394164-8e3a2600-bcda-11eb-8997-70e8a9152e13.png)
 
 
+
+
 ### Take a screenshot of your logs (can be from the Log stream in Azure) showing logging from an attempt to sign in with an invalid login, as well as a valid login.
+![image](https://user-images.githubusercontent.com/18415884/119398334-17a02700-bce0-11eb-91fe-c79a6d78d202.png)
+
+
 
 
