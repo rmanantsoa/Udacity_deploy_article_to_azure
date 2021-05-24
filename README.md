@@ -57,8 +57,15 @@ Body: "My name is Jane Doe and this is my first article!"
 ![image](https://user-images.githubusercontent.com/18415884/119362179-1c031a80-bcb5-11eb-8a50-7b7fe5ad9045.png)
 
 
+### Upload an image of your choice. Must be either a .png or .jpg. After saving, click back on the article you created and provide a screenshot proving that it was created successfully.
+### Please also make sure the URL is present in the screenshot.
+![image](https://user-images.githubusercontent.com/18415884/119394006-5fbc4b00-bcda-11eb-8afd-e254084646e6.png)
 
-### Upload an image of your choice. Must be either a .png or .jpg. After saving, click back on the article you created and provide a screenshot proving that it was created successfully. Please also make sure the URL is present in the screenshot.
+
 ### Log into the Azure Portal, go to your Resource Group, and provide a screenshot including all of the resources that were created to complete this project. (see sample screenshot in "example_images" folder)
-### Take a screenshot of the Redirect URIs entered for your registered app, related to the MS Login button.
+![image](https://user-images.githubusercontent.com/18415884/119394164-8e3a2600-bcda-11eb-8997-70e8a9152e13.png)
+
+
 ### Take a screenshot of your logs (can be from the Log stream in Azure) showing logging from an attempt to sign in with an invalid login, as well as a valid login.
+
+
