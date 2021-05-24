@@ -72,7 +72,7 @@ Body: "My name is Jane Doe and this is my first article!"
 
 
 ### Take a screenshot of your logs (can be from the Log stream in Azure) showing logging from an attempt to sign in with an invalid login, as well as a valid login.
-![image](https://user-images.githubusercontent.com/18415884/119398334-17a02700-bce0-11eb-91fe-c79a6d78d202.png)
+![image](https://user-images.githubusercontent.com/18415884/119399482-9fd2fc00-bce1-11eb-8a3b-c4cba2f702d3.png)
 
 
 
