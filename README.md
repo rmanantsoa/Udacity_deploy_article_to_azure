@@ -28,6 +28,10 @@
 ![image](https://user-images.githubusercontent.com/18415884/119350366-e86dc380-bca7-11eb-9ba1-a9309a00675a.png)
 
 
+### App deployment
+![image](https://user-images.githubusercontent.com/18415884/119350525-1f43d980-bca8-11eb-9a0e-48befe8ec8b6.png)
+
+
 ### Add logging for whether users successfully or unsuccessfully logged in.
 ### This will require completing TODOs in __init__.py, as well as adding logging where desired in views.py.
 ### To prove that the application in on Azure and working, go to the URL of your deployed app, log in using the credentials in this README, click the Create button, and create an article with the following data:
