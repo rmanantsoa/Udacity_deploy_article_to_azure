@@ -33,6 +33,10 @@
 
 
 ### Add logging for whether users successfully or unsuccessfully logged in.
+#### Application login page
+![image](https://user-images.githubusercontent.com/18415884/119351597-536bca00-bca9-11eb-9283-ba0a805ee2b3.png)
+
+
 ### This will require completing TODOs in __init__.py, as well as adding logging where desired in views.py.
 ### To prove that the application in on Azure and working, go to the URL of your deployed app, log in using the credentials in this README, click the Create button, and create an article with the following data:
 Title: "Hello World!"
