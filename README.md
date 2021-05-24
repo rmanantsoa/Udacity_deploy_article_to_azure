@@ -37,11 +37,26 @@
 ![image](https://user-images.githubusercontent.com/18415884/119351597-536bca00-bca9-11eb-9283-ba0a805ee2b3.png)
 
 
+#### unsuccessfully login
+![image](https://user-images.githubusercontent.com/18415884/119361109-f75a7300-bcb3-11eb-90d4-666115000369.png)
+
+
+#### successfull login
+![image](https://user-images.githubusercontent.com/18415884/119361400-4accc100-bcb4-11eb-9111-c81e5e25e54d.png)
+
+
 ### This will require completing TODOs in __init__.py, as well as adding logging where desired in views.py.
 ### To prove that the application in on Azure and working, go to the URL of your deployed app, log in using the credentials in this README, click the Create button, and create an article with the following data:
 Title: "Hello World!"
+
 Author: "Jane Doe"
+
 Body: "My name is Jane Doe and this is my first article!"
+
+![image](https://user-images.githubusercontent.com/18415884/119362179-1c031a80-bcb5-11eb-8a50-7b7fe5ad9045.png)
+
+
+
 ### Upload an image of your choice. Must be either a .png or .jpg. After saving, click back on the article you created and provide a screenshot proving that it was created successfully. Please also make sure the URL is present in the screenshot.
 ### Log into the Azure Portal, go to your Resource Group, and provide a screenshot including all of the resources that were created to complete this project. (see sample screenshot in "example_images" folder)
 ### Take a screenshot of the Redirect URIs entered for your registered app, related to the MS Login button.
