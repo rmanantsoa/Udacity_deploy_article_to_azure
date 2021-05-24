@@ -25,6 +25,9 @@
 
 
 ### Choose to use either a VM or App Service to deploy the FlaskWebProject to Azure. Complete the analysis template in WRITEUP.md (or include in the README) to compare the two options, as well as detail your reasoning behind choosing one or the other. Once you have made your choice, go through with deployment.
+![image](https://user-images.githubusercontent.com/18415884/119350366-e86dc380-bca7-11eb-9ba1-a9309a00675a.png)
+
+
 ### Add logging for whether users successfully or unsuccessfully logged in.
 ### This will require completing TODOs in __init__.py, as well as adding logging where desired in views.py.
 ### To prove that the application in on Azure and working, go to the URL of your deployed app, log in using the credentials in this README, click the Create button, and create an article with the following data:
