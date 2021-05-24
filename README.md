@@ -42,7 +42,8 @@
 
 
 #### successfull login
-![image](https://user-images.githubusercontent.com/18415884/119361400-4accc100-bcb4-11eb-9111-c81e5e25e54d.png)
+![image](https://user-images.githubusercontent.com/18415884/119362381-4ce34f80-bcb5-11eb-841a-bc182cb11fb5.png)
+
 
 
 ### This will require completing TODOs in __init__.py, as well as adding logging where desired in views.py.
