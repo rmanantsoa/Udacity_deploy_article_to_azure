@@ -21,6 +21,9 @@
 
 ### Add functionality to the Sign In With Microsoft button.
 ### This will require completing TODOs in views.py with the msal library, along with appropriate registration in Azure Active Directory.
+![image](https://user-images.githubusercontent.com/18415884/119348159-26b5b380-bca5-11eb-8890-8b6ee887b348.png)
+
+
 ### Choose to use either a VM or App Service to deploy the FlaskWebProject to Azure. Complete the analysis template in WRITEUP.md (or include in the README) to compare the two options, as well as detail your reasoning behind choosing one or the other. Once you have made your choice, go through with deployment.
 ### Add logging for whether users successfully or unsuccessfully logged in.
 ### This will require completing TODOs in __init__.py, as well as adding logging where desired in views.py.
