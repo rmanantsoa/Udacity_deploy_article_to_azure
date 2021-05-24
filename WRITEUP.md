@@ -2,11 +2,8 @@
 
 ### Analyze, choose, and justify the appropriate resource option for deploying the app.
 
-*For **both** a VM or App Service solution for the CMS app:*
-- *Analyze costs, scalability, availability, and workflow*
-- *Choose the appropriate solution (VM or App Service) for deploying the app*
-- *Justify your choice*
-
-### Assess app changes that would change your decision.
-
-*Detail how the app and any other needs would have to change for you to change your decision in the last section.* 
+App service for deploying app
+-  App service and publication from github repo : easy to deploy
+-  Sku and size of linux server : Dev/test F1 : minimum ressource to deploy the cms project
+-  The project is very light and the cloud azure demo doesn't allow other server 
+-  very low pricing 
