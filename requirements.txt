@@ -1,4 +1,3 @@
---find-links wheelhouse
 alembic==1.4.0
 azure-common==1.1.24
 azure-nspkg==3.0.2
