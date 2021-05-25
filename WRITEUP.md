@@ -28,6 +28,7 @@ VM generally is more available than App services but we need do configure the VM
 
 For workflow, it is really easier to deploy and use CI/CD pipeline on App service than VM.
 Although we can configure an personalized automated CI/CD workflow on VM but require more configuration and more time to set up.
+
 --------------------
 #### My choice
 
